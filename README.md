@@ -2,6 +2,7 @@
 Plays the android game 'Ninja Stick Hero' automically and infinitely, without dying...
 
 ## requirements
+*this repository also contains the required adb tools for the project*
 1. You need to enable developer options on your android device.
 2. You need to enable 'usb debugging' in the developers options, and allow unknown devices to act as input source and control scteen touch input.
 3. when you clone this repository, add this folder to "enviornment variables->paths" in your pc.(to identify and run adb commands)
